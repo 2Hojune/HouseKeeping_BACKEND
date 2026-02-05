@@ -11,8 +11,10 @@
 
 ### 프로젝트 개요/동기
 </p>
-1인가구수가 급격히 증가함에 따라 자취 생활이 미숙하여 어려움을 겪는 가구또한 증가하고 있다.<br>
-이에 바탕하여 의식주를 통합관리하는 웹 애플리케이션 개발을 고안하였다.
+• 최근 1인 가구 수의 급격한 증가
+• 자취 생활에 어려움을 겪는 사람 또한 증가
+• 사람이 살아가는 데 필수적인 3가지 요소인 의/식/주를 통합•관리하는 웹 애플리케이션 개발
+
 
 <p align="center">
 
@@ -22,25 +24,7 @@
 
 ## 🔧 기술 스택
 
-| JavaScript |   Python  |   Spring   |     Java     |   Html   |  Node   |  Json   |   JQuery  |  MySQL  |   MongoDB  |
-| :--------: |:---------:| :--------: | :----------: | :------: | :-----: | :-----: | :-------: | :-----: | :--------: |
-|   ![js]    | ![python] |  ![spring] |   ![java]    | ![html]  | ![node] | ![json] | ![jquery] | ![mysql]| ![mongodb] |
-
-<br><br>
-## 💻 IDE
-
-|   IntelliJ  |   Eclipse   |  VScode   |
-| :---------: | :---------: | :-------: |
-| ![intellij] |  ![eclipse] | ![vscode] |
-
-<br><br>
-
-## 🧑‍🤝‍🧑 협업 도구
-
-|    Git     |    Slack   |   Notion  |   Figma   |
-| :--------: | :--------: | :-------: | :-------: |
-|   ![git]   |  ![slack]  | ![notion] | ![figma]  |
-
+<img width="1060" height="505" alt="Image" src="https://github.com/user-attachments/assets/7930be81-d69f-42a5-b7eb-6a1e211a2290" />
 <br><br>
 
 ## ⚡ 구현 기능
