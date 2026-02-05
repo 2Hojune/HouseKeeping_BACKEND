@@ -25,6 +25,7 @@
 ## 📊 포트폴리오 발표 자료
 
 👉[발표 자료 바로 보기](https://docs.google.com/presentation/d/e/2PACX-1vT5JyT_7ah_-BVIFNt-joZ4L1xjbWKwP6aMinxfzpinpvGMm_L2-wdo04NWbPYsElNUf9A0tZjWUL27/pub?start=false&loop=false&delayms=3000)
+<br>
 👉[데모 영상 바로 보기](https://docs.google.com/presentation/d/e/2PACX-1vQtitkZhajMbXw9piZn5Kwp1yMc4ImlFTFlsgeH6w33TgERZw6AAJB1EOOjVEKMoljzC-_fE4QThiBN/pub?start=false&loop=false&delayms=3000)
 
 <br><br>
