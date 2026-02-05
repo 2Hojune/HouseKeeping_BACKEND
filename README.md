@@ -24,7 +24,7 @@
 
 ## 📊 포트폴리오 발표 자료
 
-👉[발표 자료 바로 보기](https://docs.google.com/presentation/d/e/2PACX-.../pub)👈
+👉[발표 자료 바로 보기](https://docs.google.com/presentation/d/e/2PACX-.../pub)
 
 
 
