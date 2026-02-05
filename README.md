@@ -27,6 +27,16 @@
 <img width="1060" height="505" alt="Image" src="https://github.com/user-attachments/assets/7930be81-d69f-42a5-b7eb-6a1e211a2290" />
 <br><br>
 
+## 🔧 아키텍처
+
+<img width="732" height="533" alt="image" src="https://github.com/user-attachments/assets/dd40ea42-2042-4645-ac1c-be46fc7b49b7" />
+<br><br>
+
+## 🔧 ERD
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/dcd75425-5bb8-4043-89d3-1c0bc5a07c1e" />
+<br><br>
+
+
 ## ⚡ 구현 기능
 
 #### - 회원가입/로그인시 세션하이재킹등 해킹을 방지하기 위한 보안 요구사항을 만족시킨다.
