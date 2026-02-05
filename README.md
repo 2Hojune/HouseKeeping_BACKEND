@@ -21,7 +21,8 @@
 </p>
 
 
-<br>
+<br>[housekeeping의 사본.pdf](https://github.com/user-attachments/files/25085964/housekeeping.pdf)
+
 
 ## 🔧 기술 스택
 
