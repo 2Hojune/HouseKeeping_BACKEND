@@ -14,7 +14,7 @@
 • 최근 1인 가구 수의 급격한 증가<br>
 • 자취 생활에 어려움을 겪는 사람 또한 증가<br>
 • 사람이 살아가는 데 필수적인 3가지 요소인 의/식/주를 통합•관리하는 웹 애플리케이션 개발
-<br><br>
+<br>
 
 <p align="center">
 
@@ -27,7 +27,7 @@
 👉[발표 자료 바로 보기](https://docs.google.com/presentation/d/e/2PACX-1vT5JyT_7ah_-BVIFNt-joZ4L1xjbWKwP6aMinxfzpinpvGMm_L2-wdo04NWbPYsElNUf9A0tZjWUL27/pub?start=false&loop=false&delayms=3000)
 
 
-<br><br>
+<br>
 ## 🔧 기술 스택
 
 <img width="1060" height="505" alt="Image" src="https://github.com/user-attachments/assets/7930be81-d69f-42a5-b7eb-6a1e211a2290" />
