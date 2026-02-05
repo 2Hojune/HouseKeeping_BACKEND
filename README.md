@@ -21,6 +21,9 @@
 
 </p>
 
+https://docs.google.com/presentation/d/e/2PACX-1vT5JyT_7ah_-BVIFNt-joZ4L1xjbWKwP6aMinxfzpinpvGMm_L2-wdo04NWbPYsElNUf9A0tZjWUL27/pub?start=false&loop=false&delayms=3000
+
+https://docs.google.com/presentation/d/1UXnLbdqvSKYKhsAdFB8IOPgzXRxD260lAi0hIQwY6sI/present
 
 
 ## 🔧 기술 스택
