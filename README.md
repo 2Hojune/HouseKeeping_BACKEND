@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="./readme_asset/common/housekeeping_logo.png">
+  <img width="1079" height="603" alt="Image" src="https://github.com/user-attachments/assets/005f494e-c70c-4646-8716-03e372748235" />
   <br>
 </p>
 
