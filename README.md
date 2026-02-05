@@ -20,6 +20,9 @@
 
 </p>
 
+https://docs.google.com/presentation/d/1UXnLbdqvSKYKhsAdFB8IOPgzXRxD260lAi0hIQwY6sI/edit?slide=id.g2f50eb2deda_6_12#slide=id.g2f50eb2deda_6_12
+
+
 <br>
 
 ## 🔧 기술 스택
